@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Joachim, a Full Stack Developer currently located in Stuttgart, Germany
 <!--
 **JoachimLi/JoachimLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
