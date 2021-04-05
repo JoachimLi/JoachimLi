@@ -1,20 +1,19 @@
 ### Hi there 👋, I'm Joachim!
 
-I'm a Full Stack developer, mostly working with JavaScript and TypeScript. I love Nest and Vue.
+I am a Full Stack Developer with an entrepreneurial spirit, interested in building better software.
+I have mostly been working with JavaScript/TypeScript. I worked with React, Angular and Vue on the front end, as well as Nest, Express and Koa for the back end.
+I'm no stranger to PostgreS and MongoDB, and have some experience with CI/CD.
+
+I'm a fast learner with many interests, so there's always more to learn. I like a good challenge and the creative process figuring out tricky problems. 
 <!--
 **JoachimLi/JoachimLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on highfly flexible digital pilot logbook
+- 🌱 I’m currently learning SO MANY THINGS
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I earned my pilots license before I earned my drivers license
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
