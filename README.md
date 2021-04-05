@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Joachim, a Full Stack Developer currently located in Stuttgart, Germany
+### Hi there 👋, I'm Joachim!
+
+I'm a Full Stack developer, mostly working with JavaScript and TypeScript. I love Nest and Vue.
 <!--
 **JoachimLi/JoachimLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?logo=javascript&logoColor=ColorName&style=flat" />
