@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?logo=javascript&logoColor=ColorName&style=flat" />
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?logo=javascript&logoColor=red&style=flat" />
