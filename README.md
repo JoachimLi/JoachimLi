@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Joachim!
 
-I am a Full Stack Developer with an entrepreneurial spirit, interested in building better software.
+I'm a Full Stack Developer with an entrepreneurial spirit, passionate about building better software to solve people's problems.
 I have mostly been working with JavaScript/TypeScript. I worked with React, Angular and Vue on the front end, as well as Nest, Express and Koa for the back end.
 I'm no stranger to PostgreS and MongoDB, and have some experience with CI/CD.
 
