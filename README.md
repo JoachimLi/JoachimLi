@@ -11,7 +11,7 @@ I'm a fast learner with many interests, so there's always more to learn. I like 
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a highly flexible digital pilot logbook
-- 🌱 I’m currently learning Prisma orm
+- 🌱 I’m currently learning PuppeteerJS & CodeceptJs
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I earned my pilots license before I earned my drivers license
 
